@@ -2,15 +2,18 @@
 
 [About](index.md)
 
-[English]()
+[Verb]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  * [Stress and Syllables](english/stress.md)
+  * [Verb konjugation](Verb/Konjugation.md)
+  * [Modalverb konjugation](Verb/Modalverb.md)
 
 [Math]()
 
   * [Levy Processes](math/levy_processes.md)
+
+[Kontaktieren]()
+
+* [Kontaktiere mich](kontaktieren/Kontaktiere mich!.md)
 
 [Coding](coding/PythonNote.md)
 

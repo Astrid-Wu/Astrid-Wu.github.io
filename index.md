@@ -2,10 +2,12 @@
 
 # 个人介绍
 
-# 文献参考
+<img src="index.assets/15800581597002.jpeg" alt="15800581597002" style="zoom: 50%;" />
 
-![1575459449332](index.assets/1575459449332.jpeg)
+Willkommmen in meinem persönlichen Bereich!
 
-欢迎来到我的个人空间！
+Freut mich!
 
-Note: 这是一个演示文档。
+Mein Name ist Astrid. Und ich komme aus China, aus Ning Xia.
+
+Lernen wir mal zusammen!
