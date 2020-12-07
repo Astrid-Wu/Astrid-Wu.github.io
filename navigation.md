@@ -6,8 +6,6 @@
 
   * [A Thought on English](english/english-formula.md)
   * [Phonetic Phonics](english/Phonetic-Phonics.md)
-- - - -
-  * # Advanced
   * [Stress and Syllables](english/stress.md)
 
 [Math]()
